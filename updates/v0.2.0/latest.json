@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.0",
-    "notes":  "LocalAgentRelease 本地构建版本",
-    "pub_date":  "2026-11-23T06:17:11Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnV0QUpjVWY2OEdmUGNLM3RQcWZLN2kzMmozUGpYTkwvNGJqbGdYQlJ2Tkxka1RuYTExQkxqbGhRMGgzSzRBT0ZjWlB5RjJPQlNRZHpCL0tJdzVWbUhhMk9jYkRXWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE0NTk0CWZpbGU6TG9jYWxBZ2VudFJlbGVhc2VfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCnFCNCtJd3dXT1UvZVlKS0dXS0k3dGR2aVcxeTRuRjMxcWVwS0xuMTVyd2hVZHRHQ1NPOXBHdnFHZFVLNkZkSWpGZVc1RjltRVdOKytDQWZHYUFxRkR3PT0K",
-                                             "url":  "https://github.com/Yukihana1126/local-agent-releases/releases/download/v0.2.0/LocalAgentRelease_0.2.0_x64-setup.exe"
-                                         }
-                  }
+  "version": "0.2.0",
+  "notes": "LocalAgentRelease 本地构建版本",
+  "pub_date": "2026-11-23T06:17:11Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQnV0QUpjVWY2OEdmUGNLM3RQcWZLN2kzMmozUGpYTkwvNGJqbGdYQlJ2Tkxka1RuYTExQkxqbGhRMGgzSzRBT0ZjWlB5RjJPQlNRZHpCL0tJdzVWbUhhMk9jYkRXWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE0NTk0CWZpbGU6TG9jYWxBZ2VudFJlbGVhc2VfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCnFCNCtJd3dXT1UvZVlKS0dXS0k3dGR2aVcxeTRuRjMxcWVwS0xuMTVyd2hVZHRHQ1NPOXBHdnFHZFVLNkZkSWpGZVc1RjltRVdOKytDQWZHYUFxRkR3PT0K",
+      "url": "https://gh-proxy.com/https://github.com/Yukihana1126/local-agent-releases/releases/download/v0.2.0/LocalAgentRelease_0.2.0_x64-setup.exe"
+    }
+  }
 }
