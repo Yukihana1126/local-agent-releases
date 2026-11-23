@@ -4,9 +4,11 @@
 
 ## 下载安装
 
-- 最新安装包：https://github.com/Yukihana1126/local-agent-releases/releases/latest
+- 最新发布页：https://github.com/Yukihana1126/local-agent-releases/releases/latest
 - 直接安装（Windows 11 家庭版可用）：
   https://github.com/Yukihana1126/local-agent-releases/releases/download/v0.2.0/LocalAgentRelease_0.2.0_x64-setup.exe
+- 国内直连慢/断流时走镜像（同一文件，sha256 已核对）：
+  https://gh-proxy.com/https://github.com/Yukihana1126/local-agent-releases/releases/download/v0.2.0/LocalAgentRelease_0.2.0_x64-setup.exe
 
 安装后：
 
